@@ -120,7 +120,7 @@ class _LoginPageState extends State<LoginPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Modal Progress HUD Demo'),
+        title: Text('Login Demo'),
         backgroundColor: Colors.blue,
       ),
       // display modal progress HUD (heads-up display, or indicator)
